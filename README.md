@@ -1,4 +1,4 @@
-A Drone Detector using Matlab Deep Learning Toolbox to detect drones using CNN, RCNN, and YOLOv2. And using Python's opencv to detect the drone using a custom haarcascade and a laser turret consisting of a pan-tilt servo motors.
+A Drone Detector using MATLAB's Deep Learning Toolbox to detect drones using CNN, RCNN, and YOLOv2. And using Python's opencv to detect the drone using a custom haarcascade and a laser turret consisting of a pan-tilt servo motors.
 
 #Instructions:
 
